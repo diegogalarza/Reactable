@@ -1,8 +1,12 @@
 # Reactable
 ----------------FINAL PROYECT 'REACTABLE'-----------------
+
 -------------------INTERACCION Y SONIDO-------------------
+
 -----------------PROF. GERARDO M. SARRIA------------------
+
 -----------DIEGO F. GALARZA, VICTOR M. OSPINA-------------
+
 --------------------------2019----------------------------
 
 
@@ -33,4 +37,4 @@ externals folder, add a path for each lib mentioned before,
 and also add a path directly to the 'amoeba_sounds' folder.
 This to ensure the correct performance of our proyect.
 
-		              THANK YOU, ENJOY
+		THANK YOU, ENJOY
