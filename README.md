@@ -1,7 +1,6 @@
-#Reactable
-2019
+# Reactable
 
-_Final proyect for the subject "Interaccion y Sonido" (Sound and Interaction). The objective of this project is to create and visualize a version of a Reactable made in Processing 3, Pure Data & reacTIVision at the Pontificia Universidad Javeriana Cali, Colombia._
+_Final proyect for the subject "Interaccion y Sonido" (Sound and Interaction). The objective of this project is to create and visualize a version of a Reactable made in Processing 3, Pure Data & reacTIVision at the Pontificia Universidad Javeriana Cali, Colombia, 2019._
 
 ## Content
 This proyect contains two main files which are:
