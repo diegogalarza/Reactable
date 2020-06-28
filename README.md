@@ -7,7 +7,7 @@
 
 -----------DIEGO F. GALARZA, VICTOR M. OSPINA-------------
 
--------------------------2019-----------------------------
+--------------------------------2019-----------------------------
 
 
 The objective of this project is to create and visualize a
