@@ -1,6 +1,6 @@
 # Reactable
 
-_Final proyect for the subject "Interaccion y Sonido" (Sound and Interaction). The objective of this project is to create and visualize a version of a Reactable made in Processing 3, Pure Data & reacTIVision at the Pontificia Universidad Javeriana Cali, Colombia, 2019._
+_The objective of this project is to create and visualize a version of a Reactable made in Processing 3, Pure Data & reacTIVision. By using the Amoeba detection we can display various visual effects that represents volume control, pitch control and sound playback._
 
 ## Content
 This proyect contains two main files which are:
@@ -30,6 +30,9 @@ In PureData please verify the existing paths to the
 externals folder, add a path for each lib mentioned before, 
 and also add a path directly to the 'amoeba_sounds' folder.
 This to ensure the correct performance of our proyect.
+
+## Credits
+Final proyect for the subject "Interaccion y Sonido" (Sound and Interaction) at Pontificia Universidad Javeriana Cali, Colombia, 2019.
 
 ## Authors
 * **Diego F. Galarza** - *Programming and Visual content* - [diegogalarza](https://github.com/diegogalarza)
