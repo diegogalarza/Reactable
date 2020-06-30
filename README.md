@@ -36,7 +36,7 @@ Final proyect for the subject "Interaccion y Sonido" (Sound and Interaction) at 
 
 ## Authors
 * **Diego F. Galarza** - *Programming and Visual content* - [diegogalarza](https://github.com/diegogalarza)
-* **Victor M. Ospina** - *Programming* - [](https://github.com/)
+* **Victor M. Ospina** - *Programming* - [VictorO98](https://github.com/VictorO98)
 
 ---
 Thank You, Enjoy
